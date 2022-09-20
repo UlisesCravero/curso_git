@@ -1,3 +1,3 @@
 # primer paso para instalaciones
 
-npm install
+yarn install
